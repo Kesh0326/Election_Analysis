@@ -46,7 +46,7 @@ To perform an election audit for the Colorado Board of Elections on a recent loc
 
 ## Recommendation Summary
 The script provides an analysis of the counties and candidates taking part in the election along with the winner/entity with the largest vote count in the respective categories. This analysis can be extrapolated to an election that involves multiple counties/states to include a sample size of the entire United States along with multiple candidates
-''' 
+ 
 ##### Get the candidate name from each row.
         candidate_name = row[2]
 
