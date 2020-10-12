@@ -52,6 +52,6 @@ The script provides an analysis of the counties and candidates taking part in th
 
 ##### Extract the county name from each row.
         county_name = row[1]
-'''
+        
 By changing the index value '[]' above, the script can be modified to include column name regardless of its position in the csv file and is flexible to include a large dataset that includes multiple candidates/counties/states/countries.
 
